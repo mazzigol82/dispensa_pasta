@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Pasta in dispensa",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Pasta",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff"
+}
